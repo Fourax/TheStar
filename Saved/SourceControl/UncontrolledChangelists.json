@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Barto/OneDrive/Dokumenty/Unreal Projects/IntroProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Barto/OneDrive/Dokumenty/Unreal Projects/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UF/MGFR52TMPH7XJ9I48J2VM5.uasset",
+				"C:/Users/Barto/OneDrive/Dokumenty/Unreal Projects/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+			]
+		}
+	]
+}
